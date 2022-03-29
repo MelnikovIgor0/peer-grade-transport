@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeerGradeTransport", "PeerGradeTransport\PeerGradeTransport.csproj", "{A8782BC7-5FA0-45D9-96D6-BC4DB2DE4FFF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{309D7015-35AD-4364-9BFE-52A817ADFB07} = {309D7015-35AD-4364-9BFE-52A817ADFB07}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EKRLib", "EKRLib\EKRLib.csproj", "{309D7015-35AD-4364-9BFE-52A817ADFB07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8782BC7-5FA0-45D9-96D6-BC4DB2DE4FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8782BC7-5FA0-45D9-96D6-BC4DB2DE4FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8782BC7-5FA0-45D9-96D6-BC4DB2DE4FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8782BC7-5FA0-45D9-96D6-BC4DB2DE4FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309D7015-35AD-4364-9BFE-52A817ADFB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309D7015-35AD-4364-9BFE-52A817ADFB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309D7015-35AD-4364-9BFE-52A817ADFB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309D7015-35AD-4364-9BFE-52A817ADFB07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E81FA93-E3FB-4DA1-8A11-D10E1575C404}
+	EndGlobalSection
+EndGlobal

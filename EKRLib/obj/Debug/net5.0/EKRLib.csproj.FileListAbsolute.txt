@@ -1,0 +1,12 @@
+F:\documents\c#\PeerGradeTransport\EKRLib\bin\Debug\net5.0\EKRLib.deps.json
+F:\documents\c#\PeerGradeTransport\EKRLib\bin\Debug\net5.0\EKRLib.dll
+F:\documents\c#\PeerGradeTransport\EKRLib\bin\Debug\net5.0\ref\EKRLib.dll
+F:\documents\c#\PeerGradeTransport\EKRLib\bin\Debug\net5.0\EKRLib.pdb
+F:\documents\c#\PeerGradeTransport\EKRLib\obj\Debug\net5.0\EKRLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\documents\c#\PeerGradeTransport\EKRLib\obj\Debug\net5.0\EKRLib.AssemblyInfoInputs.cache
+F:\documents\c#\PeerGradeTransport\EKRLib\obj\Debug\net5.0\EKRLib.AssemblyInfo.cs
+F:\documents\c#\PeerGradeTransport\EKRLib\obj\Debug\net5.0\EKRLib.csproj.CoreCompileInputs.cache
+F:\documents\c#\PeerGradeTransport\EKRLib\obj\Debug\net5.0\EKRLib.dll
+F:\documents\c#\PeerGradeTransport\EKRLib\obj\Debug\net5.0\ref\EKRLib.dll
+F:\documents\c#\PeerGradeTransport\EKRLib\obj\Debug\net5.0\EKRLib.pdb
+F:\documents\c#\PeerGradeTransport\EKRLib\obj\Debug\net5.0\EKRLib.csprojAssemblyReference.cache
